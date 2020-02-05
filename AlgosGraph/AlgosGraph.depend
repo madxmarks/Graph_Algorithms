@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1560824580 source:c:\users\nik_g\onedrive\documents\study code\algosgraph\main.cpp
+	"SecTask.h"
+	"FirstTask.h"
+	"ThirdTask.h"
+	"HashTable.h"
+	<fstream>
+	<chrono>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<stdexcept>
+	<fstream>
+	<vector>
+
+1559340549 source:c:\users\nik_g\onedrive\documents\study code\algosgraph\src\bfs.cpp
+	"BFS.h"
+
+1559567136 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\bfs.h
+	<vector>
+	<stack>
+	<iostream>
+	<list>
+	<queue>
+
+1559340526 source:c:\users\nik_g\onedrive\documents\study code\algosgraph\src\dfs.cpp
+	"DFS.h"
+
+1559562155 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\dfs.h
+	<vector>
+	<stack>
+	<iostream>
+
+1559340583 source:c:\users\nik_g\onedrive\documents\study code\algosgraph\src\hashtable.cpp
+	"HashTable.h"
+
+1560818123 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\hashtable.h
+	<list>
+	<stack>
+	<vector>
+	<iostream>
+	<iterator>
+	<algorithm>
+
+1559340853 source:c:\users\nik_g\onedrive\documents\study code\algosgraph\src\sectask.cpp
+	"SecTask.h"
+
+1559504600 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\sectask.h
+	<iostream>
+	<vector>
+	<stdexcept>
+
+1560824619 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\firsttask.h
+	<vector>
+	<stack>
+	<iostream>
+	<list>
+	<queue>
+
+1560824083 c:\users\nik_g\onedrive\documents\study code\algosgraph\include\thirdtask.h
+	<iostream>
+	<string>
+
+1562070372 source:c:\users\nik_g\onedrive\documents\study code\aa_gagaev\algosgraph\main.cpp
+	"SecTask.h"
+	"FirstTask.h"
+	"ThirdTask.h"
+	"HashTable.h"
+	<fstream>
+	<chrono>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<stdexcept>
+	<fstream>
+	<vector>
+
+1562070017 c:\users\nik_g\onedrive\documents\study code\aa_gagaev\algosgraph\include\sectask.h
+	<stack>
+	<iostream>
+	<vector>
+	<stdexcept>
+
+1562070259 c:\users\nik_g\onedrive\documents\study code\aa_gagaev\algosgraph\include\firsttask.h
+	<vector>
+	<stack>
+	<iostream>
+	<list>
+	<queue>
+
+1560820483 c:\users\nik_g\onedrive\documents\study code\aa_gagaev\algosgraph\include\thirdtask.h
+	<iostream>
+	<string>
+
+1560814523 c:\users\nik_g\onedrive\documents\study code\aa_gagaev\algosgraph\include\hashtable.h
+	<list>
+	<stack>
+	<vector>
+	<iostream>
+	<iterator>
+	<algorithm>
+
